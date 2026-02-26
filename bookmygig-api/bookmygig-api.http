@@ -1,0 +1,6 @@
+@bookmygig_api_HostAddress = http://localhost:5110
+
+GET {{bookmygig_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
